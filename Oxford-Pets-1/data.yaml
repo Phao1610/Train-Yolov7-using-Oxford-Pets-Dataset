@@ -1,0 +1,7 @@
+names:
+- cat
+- dog
+nc: 2
+train: Oxford-Pets-1/train/images
+val: Oxford-Pets-1/valid/images
+test: Oxford-Pets-1/test/images
